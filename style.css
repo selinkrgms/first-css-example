@@ -1,0 +1,17 @@
+a{
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+    text-decoration: line-through;
+    }
+
+p{
+    
+    color: blue;
+}    
+li{
+   
+    font-style: italic;
+    color: blue;
+}
